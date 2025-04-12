@@ -12,7 +12,7 @@ This project is a simple, responsive webpage designed with a fixed header, a mob
 - **Smooth Animations**: Hover effects on articles and mode toggle for enhanced interactivity.
 
 ## Demo
-You can view a live demo of the project [here](https://mhsnz.github.io/Blog-Page/) (replace with actual link if hosted).
+You can view a live demo of the project [here](https://mhsnz.github.io/Blog-Page/).
 
 ## Installation
 1. Clone the repository:
